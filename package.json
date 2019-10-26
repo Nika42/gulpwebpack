@@ -1,5 +1,5 @@
 {
-    "name": "gaming",
+    "name": "moovie.ge",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -23,10 +23,10 @@
         "webpack": "^4.32.2",
         "webpack-stream": "^4.0.3"
     },
-    "author": "",
-    "license": "ISC",
-    "keywords": [],
     "dependencies": {
         "jquery": "^3.4.1"
-    }
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": []
 }
